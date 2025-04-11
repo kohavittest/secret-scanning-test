@@ -5,3 +5,5 @@ Innocent commit
 This changes 
 
 This is not enough
+
+Comment date check
