@@ -13,7 +13,3 @@ Something else
 Hello
 Test
 222
-sdfsa
-sfasd
-sadfsda
-safsa
