@@ -15,6 +15,4 @@ Test
 sadfr
 
 Let's go
-New version
-Another go
-Finl
+
