@@ -11,7 +11,5 @@ Comment date check
 Something else
 
 Hello
-Test
-sadfr
 
 Let's go
