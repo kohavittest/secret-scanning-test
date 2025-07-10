@@ -1,1 +1,24 @@
 Test
+
+Innocent commit
+
+This changes 
+
+This is not enough
+
+Comment date check
+
+Something else
+
+Hello
+
+Let's go
+
+Some change
+ss
+
+Test
+
+New content
+
+Edited
