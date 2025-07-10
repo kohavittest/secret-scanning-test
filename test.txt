@@ -7,3 +7,5 @@ Clean code
 Empty edit to trigger scan
 
 Another one
+
+After update
