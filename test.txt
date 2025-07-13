@@ -8,6 +8,4 @@ Empty edit to trigger scan
 
 New version and even newer
 
-And introduction of new secret in main xapp-1-2343-23432-274
-
-Innocent change
+Removed added secret - but this is not enough
