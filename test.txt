@@ -11,3 +11,5 @@ New version and even newer
 Removed added secret - but this is not enough
 
 Dummy change
+
+Final check
