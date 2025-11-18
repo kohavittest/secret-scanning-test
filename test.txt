@@ -5,3 +5,5 @@ Legacy secret in main xapp-1-2343-23432-294
 Some pretty normal addition
 
 Another innocent change
+
+And another secret your-service-account@your-project-id.iam.gserviceaccount.com
