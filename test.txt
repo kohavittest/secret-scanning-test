@@ -3,6 +3,6 @@ Test
 Legacy secret in main xapp-1-2343-23432-294
 
 Adding non sensitive content. Please note that the secret in the line above will not be flagged by Secret Scanning, because it was not introduced in this Pull Request.
-
+Test
 
 This is a newly leaked secret xapp-1-2343-23432-234
